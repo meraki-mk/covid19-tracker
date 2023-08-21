@@ -1,6 +1,4 @@
 
-# covid19-tracker
-
 # covid-dashboard
 
 ## Project setup
